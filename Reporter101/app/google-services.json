@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129825491293",
+    "firebase_url": "https://mobilewebfinal-92909.firebaseio.com",
+    "project_id": "mobilewebfinal-92909",
+    "storage_bucket": "mobilewebfinal-92909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129825491293:android:5509ad7a6df5b3be",
+        "android_client_info": {
+          "package_name": "mobilewebfinal.linda.com.reporter101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129825491293-76notmptm3680641t5enm3s14q3pee36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobilewebfinal.linda.com.reporter101",
+            "certificate_hash": "1678421b1ed6aa937dfef2698ff9d6384e751bb2"
+          }
+        },
+        {
+          "client_id": "129825491293-cam7evmdihang3qjcikd2pve9pt6l3nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1VJ4EZTvqmNsfpUCtJFP6Fny3dPv4g8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129825491293-cam7evmdihang3qjcikd2pve9pt6l3nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

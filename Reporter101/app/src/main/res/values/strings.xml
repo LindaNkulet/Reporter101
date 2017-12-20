@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reporter101</string>
+    <string name="organization_prompt">Choose an Organization</string>
+
+    <string-array name="organization_arrays">
+        <item>Ghana Police</item>
+        <item>Fire Services</item>
+        <item>Ashesi University</item>
+        <item>Legon</item>
+        <item>Ministry of Environment</item>
+        <item>AU</item>
+        <item>UN</item>
+        <item>Ecowas</item>
+    </string-array>
+</resources>
